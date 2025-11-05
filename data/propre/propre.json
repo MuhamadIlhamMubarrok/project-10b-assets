@@ -2,7 +2,85 @@
   {
     "id": 1,
     "name": "Fathi Dzahabi",
-    "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON.",
+    "description": "Seorang pembelajar tekun yang selalu berusaha memberikan yang terbaik dalam setiap kerja tim. Siap berkolaborasi dan berkembang bersama menuju hasil yang maksimal.",
+    "imageUrl": "https://muhamadilhammubarrok.github.io/project-10b-assets/assets/foto-profile/bj.webp"
+  },
+  {
+    "id": 2,
+    "name": "Rafa Hitipeuw",
+    "description": "Berpikir kreatif dan selalu mencari solusi terbaik dalam setiap tantangan. Siap memberikan ide segar dan inovatif untuk kemajuan tim.",
     "imageUrl": "/propre/fathi.webp"
+  },
+  {
+    "id": 3,
+    "name": "Avrijal",
+    "description": "Pribadi disiplin yang suka bekerja dengan strategi dan perencanaan matang. Selalu mendukung kerja sama yang efektif dan produktif.",
+    "imageUrl": "https://muhamadilhammubarrok.github.io/project-10b-assets/assets/foto-profile/apuy.webp"
+  },
+  {
+    "id": 4,
+    "name": "Muhammad Mustafid Ilmi",
+    "description": "Berkomitmen untuk bekerja keras, belajar, dan berkontribusi nyata dalam setiap proyek kelompok. Fokus pada hasil dan kerja sama yang solid.",
+    "imageUrl": "https://muhamadilhammubarrok.github.io/project-10b-assets/assets/foto-profile/mustafid.webp"
+  },
+  {
+    "id": 5,
+    "name": "Muhammad Garuda Pratama",
+    "description": "Visioner dan penuh semangat inovasi. Mendorong tim untuk berpikir besar dan terus berkembang bersama.",
+    "imageUrl": "https://muhamadilhammubarrok.github.io/project-10b-assets/assets/foto-profile/garuda.webp"
+  },
+  {
+    "id": 6,
+    "name": "Bintang Maulana Ladzuardy",
+    "description": "Seorang pemikir analitis yang berorientasi pada hasil. Selalu berusaha memberikan kontribusi terbaik dalam kolaborasi tim.",
+    "imageUrl": "https://muhamadilhammubarrok.github.io/project-10b-assets/assets/foto-profile/Bintang.webp"
+  },
+  {
+    "id": 7,
+    "name": "Arsyad Faqih Alhisamiy",
+    "description": "Penyemangat tim yang selalu membawa energi positif dan ide-ide segar. Percaya bahwa sinergi adalah kunci keberhasilan kelompok.",
+    "imageUrl": "https://muhamadilhammubarrok.github.io/project-10b-assets/assets/foto-profile/arsyad.webp"
+  },
+  {
+    "id": 8,
+    "name": "Salafy Abdulah Yusuf",
+    "description": "Memiliki semangat tinggi dan rasa tanggung jawab yang kuat dalam setiap proyek. Percaya bahwa kerja sama yang solid adalah kunci kesuksesan tim.",
+    "imageUrl": "https://muhamadilhammubarrok.github.io/project-10b-assets/assets/foto-profile/salafy.webp"
+  },
+  {
+    "id": 9,
+    "name": "Luthfi Anhar",
+    "description": "Berjiwa pemimpin dan komunikatif. Suka memotivasi tim untuk mencapai tujuan bersama dengan cara yang positif dan efisien.",
+    "imageUrl": "https://muhamadilhammubarrok.github.io/project-10b-assets/assets/foto-profile/poto.webp"
+  },
+  {
+    "id": 10,
+    "name": "Abdullah Azzam",
+    "description": "Pekerja keras dan penuh dedikasi. Selalu berusaha menjadi bagian yang memperkuat sinergi dan produktivitas dalam tim.",
+    "imageUrl": "https://muhamadilhammubarrok.github.io/project-10b-assets/assets/foto-profile/azzam.webp"
+  },
+  {
+    "id": 11,
+    "name": "Rifki Himawan Widitama",
+    "description": "Individu kreatif yang berorientasi pada solusi dan efisiensi. Menjadikan kerja tim sebagai sarana untuk tumbuh bersama dan berkarya lebih baik.",
+    "imageUrl": "https://muhamadilhammubarrok.github.io/project-10b-assets/assets/foto-profile/rifky.webp"
+  },
+  {
+    "id": 12,
+    "name": "Tsany Al Fachrizy",
+    "description": "Selalu berinovasi dan berpikir kreatif dalam menyelesaikan tugas. Percaya bahwa kerja sama adalah pondasi setiap keberhasilan.",
+    "imageUrl": "https://muhamadilhammubarrok.github.io/project-10b-assets/assets/foto-profile/KeceKan.webp"
+  },
+  {
+    "id": 13,
+    "name": "Fauzan Amali",
+    "description": "Berpikir logis, bekerja cermat, dan memiliki semangat tinggi untuk terus berkembang. Siap berkolaborasi menciptakan karya terbaik bersama tim.",
+    "imageUrl": "https://muhamadilhammubarrok.github.io/project-10b-assets/assets/foto-profile/fauzan.webp"
+  },
+  {
+    "id": 14,
+    "name": "Luthfian Azzam Fadnazir",
+    "description": "Selalu membawa semangat belajar dan tanggung jawab tinggi dalam bekerja. Percaya bahwa keberhasilan adalah hasil dari kolaborasi dan komitmen.",
+    "imageUrl": "https://muhamadilhammubarrok.github.io/project-10b-assets/assets/foto-profile/pian.webp"
   }
 ]
